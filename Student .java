@@ -3,6 +3,7 @@ public class Student {
         int age = 25;
         String name = "Ankit";
         System.out.println("Age = " + age);
+        System.out.println("Name = " + name);
 
     }
 }
